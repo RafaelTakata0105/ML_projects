@@ -1,7 +1,7 @@
 ML_projects
 ==============================
 
-A collection of notebooks that use Machine Learning
+A collection of projects where Machine Learning is applied
 
 Project Organization
 ------------
